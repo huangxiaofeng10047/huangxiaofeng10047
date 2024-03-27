@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @huangxiaofeng10047
 - 👀 I’m interested in devops and bigdata
-- 🌱 I’m currently learning golang/k8s/java/flin
+- 🌱 I’m currently learning golang/k8s/java/flink
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me @hxf168482@gmail.com
 - :blog https://muhugo.vercel.app/
