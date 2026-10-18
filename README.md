@@ -11,7 +11,7 @@
 
 
 
-Finally, please check out my [personal blog](https://danicat.dev), where I write my thoughts, tutorials and news about everything I'm currently working on.
+Finally, please check out my [personal blog](https://muhugo.vercel.app/), where I write my thoughts, tutorials and news about everything I'm currently working on.
 
 <div align="center">
   
